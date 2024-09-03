@@ -1,7 +1,8 @@
 <h1 align="center">Amulya Yadav</h1>
-<h4 align="center"><i>"Whatever will be, will be"</i></h4>
+<h4 align="center"><i>"Find Yourself"</i></h4><br>
+<h4 align="center"><i>"The Rest Is Illusion"</i></h4>
 
-<div style="display: flex; justify-content: center;">
+<!--<div style="display: flex; justify-content: center;">
     <p align="center">
     <a href="https://sharats.dev/about">
         <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
