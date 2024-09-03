@@ -1,29 +1,22 @@
 <h1 align="center">Amulya Yadav</h1>
-<h4 align="center"><i>"Find Yourself"</i></h4><br>
-<h4 align="center"><i>"The Rest Is Illusion"</i></h4>
+<h5 align="center"><i>"Find Yourself, The Rest Is Illusion"</i></h5>
 
-<!--<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
     <p align="center">
-    <a href="https://sharats.dev/about">
-        <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
-    </a>
-    <a href="https://www.linkedin.com/in/sharatsachin/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="https://www.kaggle.com/sharatsachin">
-        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+    <a href="https://instagram.com/amulyaayadav">
+        <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=&logoColor=white" alt="InstaBadge">
     </a>
     </p>
 </div>
 
-<!--<h1>👨‍💻 About Me</h1>
-I am an ... :
+<h1>👨‍💻 About Me</h1>
+I am a software enthusiast, a passionate coder and the developer of AMCalc :
 
-- ✅ 
-- ✅ 
-- ✅ 
+- ✅ Learned Python
+- ✅ Android Development via Kotlin
+- ✅ Cross platform apps via Flutter
 
-<h1>👨‍💼 Experience</h1>
+<!--<h1>👨‍💼 Experience</h1>
 
 <h3>Company - Post</h3>
 <h4 align="right">Month Year–Present</h3>
