@@ -1,5 +1,5 @@
 <h1 align="center">Amulya Yadav</h1>
-<h4 align="center"><i>"Find Yourself, The Rest Is Illusion"</i></h4>
+<h4 align="center">"Find Yourself, The Rest Is Illusion"</h4><br>
 
 <div style="display: flex; justify-content: center;">
     <p align="center">
