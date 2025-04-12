@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center;">
     <p align="center">
-    <a href="https://instagram.com/amulyaayadav">
+    <a href="https://instagram.com/thepricelessyadav">
         <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=&logoColor=white" alt="InstaBadge">
     </a>
     </p>
