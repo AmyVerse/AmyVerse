@@ -63,8 +63,8 @@ I'm a passionate **software enthusiast**, **coder**, and the developer of **AMCa
 | Institution | Degree | Year | CGPA/Percentage |
 |-------------|--------|------|-----------------|
 | Indian Institute of Information Technology, Nagpur | B.Tech, Electronics and Communication Engineering | 2024–Present | Ongoing |
-| MDJSSV Jaunpur, UP | Class 12th | 20XX | 95.2% |
-| MDJSSV Jaunpur, UP | Class 10th | 20XX | 97.6% |
+| MDJSSV Jaunpur, UP | Class 12th | - | 95.2% |
+| MDJSSV Jaunpur, UP | Class 10th | - | 97.6% |
 
 <br><br>
 
