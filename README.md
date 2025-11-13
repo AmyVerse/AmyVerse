@@ -60,11 +60,11 @@ I'm a passionate **software enthusiast**, **coder**, and the developer of **AMCa
 
 <br>
 
-| Institution | Degree | Year | CGPA/Percentage |
-|-------------|--------|------|-----------------|
-| Indian Institute of Information Technology, Nagpur | B.Tech, Electronics and Communication Engineering | 2024–Present | Ongoing |
-| MDJSSV Jaunpur, UP | Class 12th | - | 95.2% |
-| MDJSSV Jaunpur, UP | Class 10th | - | 97.6% |
+| Institution | Degree | CGPA/Percentage |
+|-------------|--------|-----------------|
+| Indian Institute of Information Technology, Nagpur | B.Tech, Electronics and Communication Engineering | Ongoing |
+| MDJSSV Jaunpur, UP | Class 12th | 95.2% |
+| MDJSSV Jaunpur, UP | Class 10th | 97.6% |
 
 <br><br>
 
@@ -76,19 +76,20 @@ I'm a passionate **software enthusiast**, **coder**, and the developer of **AMCa
 
 <h3>Languages & Frameworks</h3>
 
+- Next.js, Tailwind CSS
+- PostgreSQL (Neon)
 - Python, Kotlin, Dart (Flutter)
-- JavaScript / TypeScript
-- HTML, CSS, TailwindCSS
-- React.js, Next.js
-- Node.js (basic)
+- TypeScript
+- Redis
+- Node.js
   
 <br>
 
 <h3>Cloud & Tools</h3>
 
-- GCP: BigQuery, Cloud Run, Vertex AI
-- AWS: EC2, S3, Lambda, RDS, SageMaker
-- Git, GitHub, Vercel, Firebase
+- Deployment: Vercel, Railway, Neon
+- CI/CD: Docker, Coolify
+- Git, GitHub, Firebase
   
 <br><br>
 
@@ -98,7 +99,8 @@ I'm a passionate **software enthusiast**, **coder**, and the developer of **AMCa
 
 <br>
 
-- 🧮 **AMCalc** - Your aesthetic calculator for quick and powerful calculations in more diverse areas *(More coming soon!)*
+- **AmyVerse** - My personal portfolio is one of my major projects and showcases all the digital work I do.
+- 🧮 **AMCalc** - Your aesthetic calculator for quick and powerful calculations in more diverse areas.
 
 <br><br>
 
@@ -126,8 +128,8 @@ I'm a passionate **software enthusiast**, **coder**, and the developer of **AMCa
 
 <br>
 
-- 🥇 *(listing soon)*
-- 🥈 *(listing soon)*
+- 🥇 BrandX Winner 2025 (Brand Identity Competition)
+- 🥈 2-Star CodeChef
 <!--
 - 🥇 Rank 1 in HackerBlocks CodSule, October and November 2018  
 - 🥈 Selected for onsite regional at ICPC Amritapuri 2019  
@@ -142,13 +144,13 @@ I'm a passionate **software enthusiast**, **coder**, and the developer of **AMCa
 
 <br>
 
-I started vlogging just for fun, and it turned into a documentary-style project that's pulled me towards video editing, now that's part of my journey— because life’s a beautiful blend of tech, stories, and a little bit of chaos! ✨
+I started vlogging just for fun, and it turned into a documentary-style project that's pulled me towards video editing, now that's a part of my journey- and I believe life should be a beautiful blend of tech, stories, and a little bit of chaos! ✨
 
 <br><br>
 
 ---
 
 <div align="center">
-  <h3>🌟 Let's Connect 🌟</h3>
+  <h3>Let's Connect!</h3>
   <p>Drop a Hi anytime!</p>
 </div>
