@@ -1,156 +1,169 @@
 <h1 align="center">Amulya Yadav</h1>
-<h4 align="center">"Find Yourself, The Rest Is Illusion"</h4>
+
+<h4 align="center">Full-Stack Developer · Backend · Databases · Infrastructure</h4>
+
+<p align="center">
+  <a href="https://instagram.com/thepricelessyadav">
+    <img src="https://img.shields.io/badge/Instagram-ff7b54?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amyverse/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/@amulyayadavofficial">
+    <img src="https://img.shields.io/badge/YouTube-ff4d6d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.amyverse.in">
+    <img src="https://img.shields.io/badge/Website-5e60ce?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Find Yourself, The Rest Is Illusion"</i>
+</p>
+
+<br>
+
+---
+
+<h3>👨‍💻 About Me</h3>
+
+I'm a **Full-Stack Developer** and Computer Science student at **IIIT Nagpur**, interested in building complete systems — from interfaces and APIs to databases, servers, deployment, and infrastructure.
+
+I have a **limitless interest in new technologies** and prefer learning by building with them.
+
+My main interests are:
+
+* Full-stack web development
+* Backend architecture & APIs
+* Databases & query optimization
+* System design
+* Cloud infrastructure & deployment
+* CI/CD & DevOps
+
+<br>
+
+---
+
+<h3>🎓 Academics</h3>
+
+| Institution                                        | Degree                                 | CGPA / Percentage |
+| -------------------------------------------------- | -------------------------------------- | ----------------: |
+| Indian Institute of Information Technology, Nagpur | B.Tech, Computer Science & Engineering |     **9.11 / 10** |
+| MDJSSV, Jaunpur, UP                                | Class 12th                             |         **95.2%** |
+| MDJSSV, Jaunpur, UP                                | Class 10th                             |         **97.6%** |
+
+**Expected Graduation:** 2028
+
+<br>
+
+---
+
+<h3>🧰 Tech Stack</h3>
+
+<h4>Languages</h4>
+
+`JavaScript` · `TypeScript` · `Python` · `SQL` · `HTML5` · `CSS3`
+
+<h4>Frameworks & Libraries</h4>
+
+`React` · `Next.js` · `Node.js` · `Tailwind CSS` · `Zustand` · `Framer Motion`
+
+<h4>Databases & Backend</h4>
+
+`PostgreSQL` · `Redis` · `Prisma` · `Drizzle ORM`
+
+<h4>Cloud & DevOps</h4>
+
+`Docker` · `Git` · `GitHub` · `Vercel` · `Railway` · `Coolify` · `Neon` · `Cloudflare` · `Oracle`
+
+<h4>Services & Integrations</h4>
+
+`Resend` · `Ably` · `Cashfree` · `Google Search Console`
+
+<br>
+
+---
+
+<h3>🚀 AmyVerse</h3>
+
+**AmyVerse** is my personal digital ecosystem where I build, deploy, and experiment with software.
+
+| Project                  | Description                                                                            | Stack                                    |
+| ------------------------ | -------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **AmyVerse**             | Personal website and central hub for my projects and digital work.                     | Next.js · Tailwind CSS                   |
+| **Amy's Store**          | Full-stack e-commerce platform with payments, orders, users, and transactional emails. | Next.js · PostgreSQL · Cashfree · Resend |
+| **Aether**               | Multi-tenant college ERP with RBAC, attendance, scheduling, and academic workflows.    | Next.js · PostgreSQL · Tailwind CSS      |
+| **IMDb Episode Heatmap** | Chrome extension that visualizes TV episode ratings directly on IMDb.                  | JavaScript · Manifest V3 · Chrome APIs   |
+
+<br>
+
+---
+
+<h3>💼 Experience</h3>
+
+**Web Development Lead — IOTICS & Core Web Team, Abhivyakti 2026**
+`2025 – Present`
+
+* Developing the official fest/club web platform.
+* Working in a multi-developer environment using Git-flow.
+* Contributing to production-oriented web development.
+
+**Independent Web Developer — AmyVerse**
+`2023 – Present`
+
+* Building and maintaining the AmyVerse ecosystem.
+* Handling application development, deployment, domains, DNS, Cloudflare, and automated deployments.
+* Working across frontend, backend, databases, and infrastructure.
+
+<br>
+
+---
+
+<h3>🏆 Achievements</h3>
+
+* 🥇 **Winner — BrandXperience 2025** — Brand identity & digital advertising
+* 🥇 **#1 Google ranking** for the branded keyword `AmyVerse`
+* 🏅 **Top 7 / 48 teams** — College Website Hackathon, IIIT Nagpur
+* 🏅 **CBSE District Topper** — Class X
+* 🏅 **Top 0.1% Certificate of Merit** — CBSE
+* 💯 **100/100 in Mathematics** — Class X
+
+<br>
+
+---
+
+<h3>📌 Currently Exploring</h3>
+
+`System Design` · `Database Architecture` · `Backend Engineering` · `Distributed Systems` · `Cloud Infrastructure` · `CI/CD` · `DevOps`
+
+I'm especially interested in understanding what happens **behind the application** — how systems are designed, how data moves through them, and how applications are deployed and operated reliably.
+
+<br>
+
+---
+
+<h3>🎥 Beyond Code</h3>
+
+I started creating videos for fun, which gradually turned into an interest in **video editing, documentary-style storytelling, and visual design**.
+
+I like keeping technology and creativity as two different sides of the same journey.
+
 <br><br>
+
+---
 
 <div align="center">
-<table border="0">
 
-  <tr>
-    <td align="center">
-      <a href="https://instagram.com/thepricelessyadav" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-ff7b54?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/amyverse/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-    </td>
-  </tr>
+<h3>Let's Connect!</h3>
 
-  <tr>
-    <td align="center">
-      <a href="https://youtube.com/@amulyayadavofficial" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-ff4d6d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.amyverse.in" target="_blank">
-        <img src="https://img.shields.io/badge/Website-5e60ce?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-      </a>
-    </td>
-  </tr>
+<p>
+  <a href="https://www.amyverse.in">amyverse.in</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/amyverse/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://youtube.com/@amulyayadavofficial">YouTube</a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/thepricelessyadav">Instagram</a>
+</p>
 
-</table>
-
-
-
-
-</div>
-
-<br><br>
-
----
-
-<h1>👨‍💻 About Me</h1>
-
-I'm a passionate **software enthusiast**, **coder**, and the developer of **AMCalc** 🚀 :
-<br><br>
-
-- ✅ Learned Python  
-- ✅ Android Development via Kotlin  
-- ✅ Cross-platform apps via Flutter
-- ✅ First hand experience with Next.js
-
-<br><br>
-
----
-
-<h1>🎓 Academics</h1>
-
-<br>
-
-| Institution | Degree | CGPA/Percentage |
-|-------------|--------|-----------------|
-| Indian Institute of Information Technology, Nagpur | B.Tech, Computer Science and Engineering | 8.83 (till 3rd Sem) |
-| MDJSSV Jaunpur, UP | Class 12th | 95.2% |
-| MDJSSV Jaunpur, UP | Class 10th | 97.6% |
-
-<br><br>
-
----
-
-<h1>🧰 Tech Stack</h1>
-
-<br>
-
-<h3>Languages & Frameworks</h3>
-
-- Next.js, Tailwind CSS
-- PostgreSQL (Neon)
-- Python, Kotlin, Dart (Flutter)
-- TypeScript
-- Redis
-- Node.js
-  
-<br>
-
-<h3>Cloud & Tools</h3>
-
-- Deployment: Vercel, Railway, Neon
-- CI/CD: Docker, Coolify
-- Git, GitHub, Firebase
-  
-<br><br>
-
----
-
-<h1>🚀 Personal Projects</h1>
-
-<br>
-
-- **AmyVerse** - My personal portfolio is one of my major projects and showcases all the digital work I do.
-- 🧮 **AMCalc** - Your aesthetic calculator for quick and powerful calculations in more diverse areas.
-
-<br><br>
-
----
-
-<h1>📜 Certifications</h1>
-
-<br>
-
-- 🏆 *(listing soon)*
-- 🏆 *(listing soon)* 
-<!--
-- 🏆 [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/bceef8de-52df-4a84-8d2e-7e4f03f5a85f/public_url)  
-- 🏆 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5908e92f-c3d1-44e8-918b-6ea445764419/public_url)  
-- 🏆 [Deep Learning Specialization (deeplearning.ai)](https://www.coursera.org/account/accomplishments/specialization/certificate/BHEMTH7NMX4Q)  
-- 🏆 [Machine Learning (Stanford University)](https://www.coursera.org/account/accomplishments/certificate/D4Z738LHKR6A)  
-- 🏆 [Plotting, Charting & Data Representation in Python (University of Michigan)](https://www.coursera.org/account/accomplishments/verify/PPSAXW2RGC4V)  
-- 🏆 [Introduction to Data Science in Python (University of Michigan)](https://www.coursera.org/account/accomplishments/verify/LJAY48ETXRGW)  -->
-
-<br><br>
-
----
-
-<h1>🏆 Achievements</h1>
-
-<br>
-
-- 🥇 BrandX Winner 2025 (Brand Identity Competition)
-- 🥈 2-Star CodeChef
-<!--
-- 🥇 Rank 1 in HackerBlocks CodSule, October and November 2018  
-- 🥈 Selected for onsite regional at ICPC Amritapuri 2019  
-- 🥉 Won [The Rookie](https://drive.google.com/file/d/1fPia4WMsqdwgSew-y7vGydlSg_pYBKtL/view) award at Nagarro in the first year  
-- 🎯 Completed all problems in [Advent of Code 2021](https://github.com/sharatsachin/AdventOfCode)  -->
-
-<br><br>
-
----
-
-<h1>🎉 Fun Fact</h1>
-
-<br>
-
-I started vlogging just for fun, and it turned into a documentary-style project that's pulled me towards video editing, now that's a part of my journey- and I believe life should be a beautiful blend of tech, stories, and a little bit of chaos! ✨
-
-<br><br>
-
----
-
-<div align="center">
-  <h3>Let's Connect!</h3>
-  <p>Drop a Hi anytime!</p>
 </div>
