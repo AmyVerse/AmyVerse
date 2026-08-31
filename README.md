@@ -126,7 +126,6 @@ My main interests are:
 * 🏅 **Top 7 / 48 teams** — College Website Hackathon, IIIT Nagpur
 * 🏅 **CBSE District Topper** — Class X
 * 🏅 **Top 0.1% Certificate of Merit** — CBSE
-* 💯 **100/100 in Mathematics** — Class X
 
 <br>
 
